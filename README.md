@@ -5,3 +5,4 @@ Sample Example
 * 2- creating list with map function
 * 3- Filter public or private network list
 * 4- Lambda function
+* 5- list Comprehension
