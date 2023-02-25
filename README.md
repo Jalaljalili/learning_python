@@ -8,7 +8,7 @@ Sample Example
 * 5- list Comprehension
 * 6- Sorted Function
 * 7- Streams
-* 8- Using the floow line in first line python script
+* 8- Using the following line in the first line a python script
 ```bash
 #!/usr/bin/env
 ```
