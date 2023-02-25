@@ -6,3 +6,4 @@ Sample Example
 * 3- Filter public or private network list
 * 4- Lambda function
 * 5- list Comprehension
+* 6- Sorted Function
