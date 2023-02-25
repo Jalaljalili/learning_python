@@ -26,3 +26,7 @@ print (result1)
 
 result2 = [x*y for x in n1 for y in n2 if n1.index(x) == n2.index(y)]
 print (result2)
+
+#### OR
+for i in  [x*y for x in n1 for y in n2 if n1.index(x) == n2.index(y)]:
+    print (i)
