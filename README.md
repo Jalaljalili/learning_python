@@ -7,3 +7,4 @@ Sample Example
 * 4- Lambda function
 * 5- list Comprehension
 * 6- Sorted Function
+* 7- Streams
