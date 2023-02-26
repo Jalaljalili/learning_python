@@ -10,7 +10,7 @@ Sample Example
 * 7- Streams
 * 8- Using the following line in the first line a python script
 ```bash
-#!/usr/bin/env
+#!/usr/bin/env python3
 ```
 * 9- Read Enviroment 
     - Define enviroment in linux :
