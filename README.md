@@ -12,7 +12,7 @@ Sample Example
 ```bash
 #!/usr/bin/env
 ```
-* 9- Read Enviroment
+* 9- Read Enviroment \n
     Define enviroment in linux :
     ```bash
     FOO = 12
