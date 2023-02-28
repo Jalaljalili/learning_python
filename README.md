@@ -19,4 +19,4 @@ Sample Example
     export FOO
     ```
     
-* 10- String Formating : parameterized formats
+* 10- String Formating : parameterized formats and Magic Method Formats
