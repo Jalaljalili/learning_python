@@ -18,3 +18,5 @@ Sample Example
     FOO = 12
     export FOO
     ```
+    
+* 10- String Formating : parameterized formats
